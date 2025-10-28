@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TicketSystemVentura.API", "TicketSystemVentura.API\TicketSystemVentura.API.csproj", "{63E8C1D1-8300-4AE3-81C8-D0470B6CED19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TicketSystem.Domain", "TicketSystem.Domain\TicketSystem.Domain.csproj", "{DB8EF0DC-5179-4F70-BDF3-731493C4F229}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TicketSystem.Application", "TicketSystem.Application\TicketSystem.Application.csproj", "{4E246597-26E6-4F87-9AC9-ED0B1D87B455}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TicketSystem.Infrastructure", "TicketSystem.Infrastructure\TicketSystem.Infrastructure.csproj", "{CCC0348F-A8E0-4CDE-B4E0-A38796E2D613}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63E8C1D1-8300-4AE3-81C8-D0470B6CED19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63E8C1D1-8300-4AE3-81C8-D0470B6CED19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63E8C1D1-8300-4AE3-81C8-D0470B6CED19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63E8C1D1-8300-4AE3-81C8-D0470B6CED19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB8EF0DC-5179-4F70-BDF3-731493C4F229}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB8EF0DC-5179-4F70-BDF3-731493C4F229}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB8EF0DC-5179-4F70-BDF3-731493C4F229}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB8EF0DC-5179-4F70-BDF3-731493C4F229}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E246597-26E6-4F87-9AC9-ED0B1D87B455}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E246597-26E6-4F87-9AC9-ED0B1D87B455}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E246597-26E6-4F87-9AC9-ED0B1D87B455}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E246597-26E6-4F87-9AC9-ED0B1D87B455}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCC0348F-A8E0-4CDE-B4E0-A38796E2D613}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCC0348F-A8E0-4CDE-B4E0-A38796E2D613}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCC0348F-A8E0-4CDE-B4E0-A38796E2D613}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCC0348F-A8E0-4CDE-B4E0-A38796E2D613}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
